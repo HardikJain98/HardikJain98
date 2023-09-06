@@ -1,7 +1,7 @@
         Hello World!!!!
 - 👋 Hi, I’m Hardik S Jain
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ML Algorithms for Data Science
+- 👀 Data Science enthusiast and practitioner
+- 🌱 Computational Analytics Graduate Student at Georgia Tech
 - 💞️ I’m looking to collaborate on Kaggle
 - 📫 How to reach me hardiksj98@gmail.com
 
